@@ -1,0 +1,16 @@
+body{
+    width: 200px;
+    height: 200px;
+    background-color: aquamarine;
+    display: flex;
+    justify-content: center;
+}
+p{
+    display: inner-flex;
+    margin: auto ;
+    font-size: 26px;
+    color: black;
+    border-radius: 4px;
+    border: 1px solid teal;
+    padding: 8px;
+}
